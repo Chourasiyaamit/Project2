@@ -1,2 +1,3 @@
 # New Project
-This project was creaated form local system
+This project was created form local system
+created by amit
